@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Rick and I am a passionate Full Stack Developer from Groningen in The Netherlands. 
+
+
+
 <!--
 **rickjonkman/rickjonkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
